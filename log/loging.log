@@ -1,0 +1,6 @@
+11:26:36,521 ERROR RoversTest:21 - Rover1 Error
+11:26:36,525 ERROR RoversTest:31 - Rover2 Error
+11:27:19,516 ERROR RoversTest:21 - Rover1 Error
+11:27:19,518 ERROR RoversTest:31 - error log message
+11:27:54,518 ERROR RoversTest:21 - Rover1 Error Message
+11:27:54,520 ERROR RoversTest:31 - Rover2 Error Message
